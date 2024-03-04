@@ -1,0 +1,147 @@
+.text_1{
+    font-family: Arial;
+}
+
+.text_2{
+    font-family: Arial;
+}
+
+.text_3{
+    font-family: Arial;
+    font-weight: 800;
+}
+
+.text_4{
+    color:green;
+    margin-left:30px;
+}
+
+.text_5{
+    font-family: Arial;
+    font-size:13px;
+}
+
+#Selectors{
+    font-family: fantasy;
+}
+
+.txt{
+    margin-top: -15px;;
+}
+
+.txt span {
+    letter-spacing: 0.2em;
+    font-family: arial;
+    color:#BA55D3;  
+    font-size:15px;     
+}
+
+#Box_Model{
+    font-weight: bold;
+    font-family: arial;
+    margin-top: 20px;
+}
+
+.box {
+  width:380px;
+  height:40px;
+  background-color: #f0f0f0;
+  border: 3px solid green;
+  background-color: grey;
+  padding-top:15px;
+  padding-bottom: 0px;
+  margin-left: 110px;
+  text-align: center;
+  
+}
+
+
+.box_2 {
+  width:380px;
+  height:40px;
+  background-color: #f0f0f0;
+  border: 3px solid green;
+  background-color: grey;
+  padding-top:15px;
+  padding-bottom: 0px;
+  margin-left: 550px;
+  margin-top: -60px;
+  text-align: center;
+  
+}
+
+
+.box_3{
+  width:300px;
+  height:40px;
+  background-color: #f0f0f0;
+  border: 3px solid green;
+  background-color: grey;
+  padding-top:15px;
+  padding-bottom: 0px;
+  margin-left: 1000px;
+  margin-top: -60px;
+  text-align: center;
+  
+}
+
+#paragraph{
+    font-family: arial;
+}
+
+#Layout{
+    font-weight: bold;
+    font-family: arial;
+    margin-top: 0px;
+}
+
+.container {
+margin-top: -10px;
+display: flex;
+overflow-x: auto; /* Enable horizontal scroll for container */
+white-space: nowrap; /* Prevent boxes from wrapping to the next line */
+}
+
+.col_1, .col_2, .col_3 {
+border: solid;
+border-color: green;
+font-size: 17px;
+font-family: Arial;
+text-align: center;
+padding: 40px 0;
+margin: 20px;
+display: inline-block;
+white-space: normal; 
+}
+
+.col_1{
+padding-right: 20px;
+padding-left: 20px;
+padding-bottom: 10px;
+display: inline-block;
+text-align: center;
+}
+
+.col_2{
+padding-right: 400px;
+padding-bottom: 10px; 
+padding-left: 20px;
+display: inline-block;   
+text-align: center;
+}
+
+.col_3{
+padding-left: 15px;
+padding-right: 200px;
+padding-bottom: 10px;  
+display: inline-block;
+text-align: center;
+
+}
+
+
+#last_text {
+font-family: Arial;
+width: max-content;
+margin-top: 10px;
+}
